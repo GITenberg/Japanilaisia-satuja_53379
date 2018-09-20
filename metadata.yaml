@@ -1,5 +1,5 @@
 _repo: Japanilaisia-satuja_53379
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hedman, Valfrid
@@ -7,7 +7,12 @@ contributor:
     deathdate: 1939
     gutenberg_agent_id: '46070'
     url: http://www.gutenberg.org/2009/agents/46070
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53379#Japanilaisia-satuja
 gutenberg_bookshelf: Children's Myths, Fairy Tales, etc.
 gutenberg_issued: '2016-10-27'
 gutenberg_type: Text
